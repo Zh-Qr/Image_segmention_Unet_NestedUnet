@@ -1,6 +1,7 @@
 # Image_segmention_Unet
 
-This project is used as a test for project assessment. It is free for learning.
+This project is used as a test for project assessment. It is free for learning.  
+Please pay attention to the path of file!
 
 ## Prepare for the env
 **PyTorch 2.0.0、Python 3.8(ubuntu20.04)、Cuda 11.8**  
