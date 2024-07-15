@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+tensorflow>=2.10
+scipy
+scikit-learn
+shutil
+os
+glob
+random
+opencv-python>=4.1
